@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d81a2039.css",
+    "main.js": "/static/js/main.5f362a5b.js",
+    "static/js/563.6e8462b9.chunk.js": "/static/js/563.6e8462b9.chunk.js",
+    "static/js/429.83d8fe26.chunk.js": "/static/js/429.83d8fe26.chunk.js",
+    "static/media/korp-conveniences 2.png": "/static/media/korp-conveniences 2.016194c2a2616eab0758.png",
+    "static/media/corp-store (1).png": "/static/media/corp-store (1).f7ebc99f460d8785a009.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.d81a2039.css",
+    "static/js/main.5f362a5b.js"
+  ]
+}
